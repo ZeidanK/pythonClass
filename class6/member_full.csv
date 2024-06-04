@@ -1,0 +1,201 @@
+member_id,first_name,surname,sex,email,monthly_budget,member_city
+1,Ollie,Kinney,M,Ol.Kinney@walla.co.il,1000.0,Herzelia
+2,Landon,Bishop,F,La.Bi@gmail.com,500.0,Herzelia
+3,Jia,Delarosa,M,Jia.De@gmail.com,500.0,Herzelia
+4,Valentina,Ratcliffe,F,Va.Ratcliffe@gmail.com,600.0,Herzelia
+5,Stacie,Patel,F,St.Patel@hotmail.com,500.0,Ramat Hasharon
+6,Fallon,Case,M,Fa.Case@walla.co.il,600.0,Ramat Hasharon
+7,Asia,Tang,F,Asia.Ta@hotmail.com,500.0,Herzelia
+8,Jadine,Holt,F,Ja.Holt@yahoo.com,600.0,Givatayim
+9,Maison,Watt,M,Maison.Watt@gmail.com,500.0,Ramat Gan
+10,Mahad,Ware,M,Ma.Ware@walla.co.il,600.0,Givatayim
+11,Louisa,Grant,F,Lo.Gr@gmail.com,600.0,Ramat Gan
+12,Glyn,Cooper,M,Gl.Co@hotmail.com,500.0,Ramat Hasharon
+13,Jed,Fuentes,M,Je.Fu@hotmail.com,1000.0,Givatayim
+14,Clarke,Ponce,M,Clarke.Ponce@walla.co.il,600.0,Ramat Gan
+15,Krystal,Bridges,F,Krystal.Bridges@hotmail.com,500.0,Herzelia
+16,Sonia,Rosales,F,So.Ro@yahoo.com,500.0,Givatayim
+17,Ellis,Coates,F,El.Co@gmail.com,500.0,Ramat Hasharon
+18,Rohan,Farrell,F,Ro.Fa@yahoo.com,800.0,Ramat Hasharon
+19,Nico,Hastings,M,Ni.Hastings@walla.co.il,1000.0,Givatayim
+20,Adelina,Ashley,F,Ad.As@hotmail.com,800.0,Herzelia
+21,Marlon,Day,M,Marlon.Day@gmail.com,600.0,Tel Aviv
+22,Mikaela,Croft,F,Mi.Croft@gmail.com,1000.0,Givatayim
+23,Isla-Rose,Heaton,F,Isla-Rose.He@gmail.com,800.0,Ramat Hasharon
+24,Amy-Louise,Mayo,F,Am.Mayo@gmail.com,500.0,Herzelia
+25,Safwan,Flowers,M,Sa.Flowers@hotmail.com,600.0,Tel Aviv
+26,Estelle,Doherty,F,Estelle.Do@hotmail.com,1000.0,Herzelia
+27,Seth,Calvert,M,Se.Ca@walla.co.il,1000.0,Ramat Hasharon
+28,Cassidy,Villa,F,Cassidy.Villa@walla.co.il,600.0,Tel Aviv
+29,Madison,Sanchez,F,Madison.Sanchez@hotmail.com,800.0,Ramat Hasharon
+30,Anisah,Downs,F,An.Do@yahoo.com,1000.0,Ramat Hasharon
+31,Kaisha,Watkins,F,Kaisha.Watkins@walla.co.il,1000.0,Ramat Gan
+32,Fox,Hunt,M,Fox.Hu@walla.co.il,500.0,Herzelia
+33,Elspeth,Zuniga,F,El.Zu@gmail.com,500.0,Ramat Hasharon
+34,Leoni,Lindsay,F,Leoni.Lindsay@yahoo.com,800.0,Ramat Gan
+35,Ines,Lott,M,Ines.Lo@hotmail.com,1000.0,Givatayim
+36,Sarah,Crossley,F,Sarah.Cr@hotmail.com,600.0,Tel Aviv
+37,Robert,Mckee,M,Robert.Mckee@gmail.com,800.0,Herzelia
+38,Nathalie,Marshall,F,Na.Marshall@yahoo.com,600.0,Givatayim
+39,Alyx,Conway,M,Alyx.Conway@walla.co.il,800.0,Tel Aviv
+40,Mairead,Acevedo,F,Ma.Acevedo@walla.co.il,600.0,Herzelia
+41,Hadi,Gardiner,M,Hadi.Ga@hotmail.com,500.0,Herzelia
+42,Aahil,Redman,M,Aahil.Re@hotmail.com,1000.0,Ramat Hasharon
+43,Simrah,Greig,F,Si.Greig@yahoo.com,600.0,Herzelia
+44,Evie,Berg,F,Ev.Be@gmail.com,600.0,Herzelia
+45,Jaime,Britton,M,Jaime.Britton@walla.co.il,800.0,Tel Aviv
+46,Mariyah,Green,F,Ma.Green@walla.co.il,1000.0,Herzelia
+47,Joyce,Newton,F,Joyce.Ne@gmail.com,500.0,Herzelia
+48,Kaison,Harvey,M,Kaison.Harvey@yahoo.com,600.0,Ramat Gan
+49,Blane,Compton,M,Bl.Co@gmail.com,800.0,Ramat Hasharon
+50,Jayda,Lord,F,Jayda.Lord@walla.co.il,600.0,Tel Aviv
+51,Essa,Hope,M,Essa.Ho@walla.co.il,500.0,Herzelia
+52,Franklyn,Findlay,M,Franklyn.Findlay@yahoo.com,800.0,Tel Aviv
+53,Lilly-Ann,Frey,F,Li.Fr@hotmail.com,1000.0,Tel Aviv
+54,Cavan,Bates,M,Ca.Ba@walla.co.il,800.0,Ramat Hasharon
+55,Yasir,Noel,M,Ya.Noel@walla.co.il,500.0,Givatayim
+56,Kyra,Mccann,F,Ky.Mc@walla.co.il,500.0,Tel Aviv
+57,Kya,Melton,M,Kya.Me@gmail.com,500.0,Herzelia
+58,Colleen,Steele,F,Co.St@hotmail.com,800.0,Tel Aviv
+59,Jaydon,Trujillo,M,Jaydon.Tr@walla.co.il,1000.0,Tel Aviv
+60,Bryson,Lynch,M,Bryson.Ly@hotmail.com,800.0,Tel Aviv
+61,Kiki,Schneider,F,Kiki.Sc@hotmail.com,600.0,Herzelia
+62,Janine,Coulson,F,Ja.Coulson@gmail.com,500.0,Herzelia
+63,Lorena,Dunkley,M,Lo.Dunkley@walla.co.il,500.0,Givatayim
+64,Jody,Horn,F,Jo.Ho@walla.co.il,600.0,Ramat Gan
+65,Carmen,Calvert,F,Carmen.Ca@hotmail.com,1000.0,Tel Aviv
+66,Kamron,Goodwin,M,Ka.Goodwin@hotmail.com,800.0,Ramat Hasharon
+67,Campbell,Alvarez,M,Campbell.Alvarez@hotmail.com,600.0,Givatayim
+68,Aydin,Hirst,M,Aydin.Hirst@hotmail.com,1000.0,Tel Aviv
+69,Griff,Blackwell,M,Griff.Blackwell@walla.co.il,1000.0,Ramat Hasharon
+70,Ari,Barr,M,Ar.Barr@yahoo.com,500.0,Ramat Hasharon
+71,Cecil,Hatfield,M,Ce.Ha@hotmail.com,500.0,Ramat Hasharon
+72,Nichole,Edge,F,Nichole.Edge@gmail.com,600.0,Givatayim
+73,Sohaib,Walls,M,Sohaib.Walls@gmail.com,600.0,Givatayim
+74,Lani,O'Reilly,M,Lani.O@walla.co.il,600.0,Herzelia
+75,Bridie,Morales,F,Bridie.Morales@yahoo.com,800.0,Ramat Gan
+76,Christina,Blankenship,F,Christina.Bl@walla.co.il,500.0,Herzelia
+77,Claude,Patel,M,Cl.Pa@yahoo.com,600.0,Tel Aviv
+78,Whitney,Farrington,M,Whitney.Farrington@yahoo.com,500.0,Ramat Hasharon
+79,Danny,Ortiz,M,Danny.Or@hotmail.com,600.0,Ramat Hasharon
+80,Sioned,Russell,F,Sioned.Russell@walla.co.il,1000.0,Ramat Hasharon
+81,Daniel,Calderon,M,Daniel.Ca@walla.co.il,500.0,Givatayim
+82,Misha,Ashley,M,Mi.As@hotmail.com,1000.0,Ramat Hasharon
+83,Tony,Francis,M,To.Francis@gmail.com,600.0,Givatayim
+84,Simone,Morse,F,Si.Mo@hotmail.com,500.0,Givatayim
+85,Milly,Cash,F,Mi.Cash@gmail.com,600.0,Ramat Gan
+86,Keir,Ewing,M,Keir.Ewing@walla.co.il,800.0,Ramat Hasharon
+87,Mason,Booth,M,Ma.Bo@yahoo.com,600.0,Ramat Gan
+88,Anayah,Lee,F,Anayah.Lee@hotmail.com,1000.0,Herzelia
+89,Jerry,Smith,F,Jerry.Sm@gmail.com,500.0,Givatayim
+90,Joss,Brandt,F,Joss.Brandt@walla.co.il,800.0,Tel Aviv
+91,Leo,Walton,M,Leo.Walton@hotmail.com,1000.0,Givatayim
+92,Sofia,Calhoun,F,So.Calhoun@walla.co.il,500.0,Ramat Gan
+93,Alexandru,Holmes,M,Al.Ho@hotmail.com,600.0,Givatayim
+94,Sayed,Irvine,M,Sayed.Ir@yahoo.com,600.0,Herzelia
+95,Briony,Plummer,F,Br.Pl@yahoo.com,600.0,Herzelia
+96,Presley,Yu,F,Pr.Yu@walla.co.il,800.0,Ramat Hasharon
+97,Gabriel,Bannister,M,Ga.Bannister@gmail.com,800.0,Tel Aviv
+98,Amina,Hogan,F,Am.Ho@yahoo.com,800.0,Givatayim
+99,Osian,England,M,Os.England@hotmail.com,500.0,Herzelia
+100,Patryk,Burgess,M,Patryk.Burgess@yahoo.com,600.0,Herzelia
+101,Yaqub,Reese,M,Ya.Reese@gmail.com,500.0,Tel Aviv
+102,Wren,Arnold,F,Wren.Arnold@yahoo.com,1000.0,Ramat Hasharon
+103,Gregor,Bishop,M,Gr.Bishop@hotmail.com,800.0,Givatayim
+104,Blake,Dyer,F,Blake.Dy@gmail.com,1000.0,Ramat Hasharon
+105,Bonita,Benton,F,Bo.Benton@hotmail.com,1000.0,Tel Aviv
+106,Simeon,Guevara,M,Simeon.Gu@walla.co.il,1000.0,Ramat Hasharon
+107,Anton,Ray,M,Anton.Ray@yahoo.com,1000.0,Givatayim
+108,Alexa,Stokes,F,Al.Stokes@yahoo.com,800.0,Tel Aviv
+109,Simon,Mccormick,M,Si.Mc@walla.co.il,800.0,Herzelia
+110,Danyl,Martins,M,Da.Martins@yahoo.com,800.0,Givatayim
+111,Barbara,Hayward,F,Barbara.Ha@hotmail.com,800.0,Ramat Gan
+112,Faith,Owen,F,Fa.Ow@yahoo.com,1000.0,Ramat Hasharon
+113,Macie,Lara,F,Ma.La@gmail.com,1000.0,Ramat Hasharon
+114,Matthias,Norton,M,Matthias.No@yahoo.com,1000.0,Givatayim
+115,Rami,Sexton,M,Rami.Sexton@hotmail.com,600.0,Ramat Gan
+116,Tess,Dorsey,F,Tess.Dorsey@yahoo.com,500.0,Ramat Hasharon
+117,Lillie,Barnard,F,Li.Barnard@hotmail.com,500.0,Herzelia
+118,Amar,Hewitt,M,Amar.He@gmail.com,600.0,Herzelia
+119,Steffan,Mata,M,St.Ma@walla.co.il,500.0,Ramat Gan
+120,Bridget,Colley,F,Bridget.Co@gmail.com,800.0,Givatayim
+121,Princess,Timms,F,Pr.Ti@gmail.com,800.0,Tel Aviv
+122,Ellena,Castro,F,El.Ca@yahoo.com,800.0,Herzelia
+123,Romy,Neal,F,Romy.Neal@walla.co.il,600.0,Tel Aviv
+124,Imogen,Lynch,F,Im.Ly@hotmail.com,1000.0,Ramat Hasharon
+125,Maheen,Marin,M,Maheen.Ma@hotmail.com,500.0,Herzelia
+126,Macey,Almond,M,Macey.Almond@yahoo.com,1000.0,Tel Aviv
+127,Tylor,Cochran,M,Ty.Cochran@gmail.com,800.0,Ramat Gan
+128,Parker,Drake,M,Parker.Dr@walla.co.il,800.0,Ramat Hasharon
+129,Bobbie,Cochran,F,Bo.Cochran@gmail.com,800.0,Herzelia
+130,Haleemah,Davidson,F,Haleemah.Da@yahoo.com,1000.0,Tel Aviv
+131,Jun,Barnard,M,Ju.Ba@hotmail.com,1000.0,Ramat Hasharon
+132,Yousuf,Banks,M,Yousuf.Ba@hotmail.com,800.0,Ramat Gan
+133,Liyana,Stanton,F,Li.Stanton@hotmail.com,800.0,Ramat Gan
+134,Brandi,Travis,F,Brandi.Travis@hotmail.com,600.0,Tel Aviv
+135,Cynthia,Frye,F,Cy.Fr@walla.co.il,1000.0,Ramat Gan
+136,Shanay,Reyna,M,Sh.Reyna@yahoo.com,500.0,Givatayim
+137,Terrence,Payne,M,Te.Pa@hotmail.com,800.0,Tel Aviv
+138,Jiya,Raymond,F,Ji.Ra@hotmail.com,600.0,Givatayim
+139,Octavia,Hooper,F,Oc.Hooper@gmail.com,800.0,Ramat Gan
+140,Florrie,Wilson,F,Fl.Wilson@walla.co.il,600.0,Tel Aviv
+141,Chanel,Paine,F,Chanel.Paine@gmail.com,500.0,Ramat Gan
+142,Atlanta,Cunningham,F,At.Cunningham@hotmail.com,600.0,Herzelia
+143,Aman,Driscoll,M,Am.Dr@hotmail.com,800.0,Herzelia
+144,Willie,Cairns,M,Willie.Ca@hotmail.com,600.0,Herzelia
+145,Taran,Samuels,F,Ta.Samuels@hotmail.com,600.0,Herzelia
+146,Tiya,Warren,F,Tiya.Warren@gmail.com,600.0,Tel Aviv
+147,Ahsan,Oneil,M,Ah.On@walla.co.il,500.0,Herzelia
+148,Nora,Xiong,M,Nora.Xiong@walla.co.il,1000.0,Herzelia
+149,Zoey,Hendricks,F,Zoey.He@hotmail.com,600.0,Herzelia
+150,Lilly-Mae,Greer,F,Li.Gr@hotmail.com,800.0,Ramat Hasharon
+151,Arisha,Irving,F,Ar.Irving@walla.co.il,500.0,Ramat Hasharon
+152,Keir,Broughton,F,Ke.Broughton@hotmail.com,600.0,Givatayim
+153,Kaiya,Robin,M,Ka.Robin@walla.co.il,500.0,Givatayim
+154,Daanyal,Holding,M,Da.Ho@walla.co.il,1000.0,Ramat Hasharon
+155,Axl,Bull,M,Axl.Bull@walla.co.il,600.0,Ramat Hasharon
+156,Amara,Shelton,M,Am.Sh@yahoo.com,600.0,Givatayim
+157,Lynn,Mackie,F,Lynn.Ma@yahoo.com,1000.0,Herzelia
+158,Kristi,Faulkner,M,Kr.Fa@walla.co.il,1000.0,Givatayim
+159,Kaden,Oneal,M,Ka.Oneal@walla.co.il,800.0,Ramat Hasharon
+160,Yu,Hudson,F,Yu.Hu@yahoo.com,800.0,Tel Aviv
+161,Callen,Dodd,M,Ca.Dodd@hotmail.com,500.0,Ramat Hasharon
+162,Christos,Rodriquez,M,Ch.Ro@yahoo.com,800.0,Ramat Hasharon
+163,Aman,Mccoy,F,Aman.Mc@hotmail.com,500.0,Herzelia
+164,Danyal,Brennan,M,Da.Brennan@gmail.com,500.0,Ramat Hasharon
+165,Frankie,Huff,F,Frankie.Huff@walla.co.il,1000.0,Ramat Hasharon
+166,Luka,Holder,F,Luka.Ho@yahoo.com,500.0,Givatayim
+167,Milan,Brookes,F,Mi.Br@gmail.com,500.0,Givatayim
+168,Manveer,Knight,F,Manveer.Kn@hotmail.com,800.0,Herzelia
+169,Emaan,Greenaway,M,Emaan.Greenaway@gmail.com,500.0,Herzelia
+170,Acacia,Slater,F,Ac.Slater@walla.co.il,500.0,Tel Aviv
+171,Hanna,Shelton,F,Hanna.Shelton@walla.co.il,600.0,Givatayim
+172,Frances,Major,M,Fr.Major@gmail.com,600.0,Givatayim
+173,Renzo,Henderson,M,Re.Henderson@walla.co.il,1000.0,Ramat Gan
+174,Freyja,Molina,F,Fr.Mo@hotmail.com,600.0,Tel Aviv
+175,Sadie,Waller,F,Sadie.Wa@gmail.com,1000.0,Ramat Gan
+176,Amman,Zavala,F,Am.Zavala@gmail.com,600.0,Givatayim
+177,Sydney,Wells,F,Sy.Wells@yahoo.com,500.0,Tel Aviv
+178,Jill,Frame,M,Jill.Fr@gmail.com,500.0,Tel Aviv
+179,Israel,Dunlap,M,Is.Du@walla.co.il,500.0,Ramat Gan
+180,Bilaal,Berry,M,Bilaal.Berry@yahoo.com,1000.0,Ramat Gan
+181,Armaan,Weston,M,Ar.Weston@hotmail.com,600.0,Tel Aviv
+182,Micah,Tucker,M,Mi.Tu@yahoo.com,800.0,Ramat Gan
+183,Elijah,Beech,M,Elijah.Be@hotmail.com,500.0,Tel Aviv
+184,Farah,Sutton,F,Farah.Sutton@yahoo.com,500.0,Tel Aviv
+185,Subhaan,Washington,M,Su.Wa@hotmail.com,500.0,Givatayim
+186,Ariya,Armstrong,F,Ariya.Armstrong@gmail.com,600.0,Givatayim
+187,Niyah,Whelan,M,Niyah.Whelan@yahoo.com,1000.0,Ramat Hasharon
+188,Darlene,Perry,F,Da.Perry@hotmail.com,800.0,Ramat Gan
+189,Nelson,Esparza,M,Nelson.Esparza@yahoo.com,500.0,Herzelia
+190,Kristina,Hutchinson,F,Kr.Hutchinson@yahoo.com,1000.0,Ramat Gan
+191,Kara,Thompson,F,Kara.Thompson@gmail.com,800.0,Ramat Gan
+192,Amrit,Haworth,M,Am.Ha@hotmail.com,1000.0,Givatayim
+193,Mira,Kent,M,Mi.Kent@walla.co.il,500.0,Tel Aviv
+194,Shannon,Harwood,F,Shannon.Ha@walla.co.il,800.0,Givatayim
+195,Samuel,Huerta,M,Sa.Huerta@gmail.com,800.0,Ramat Gan
+196,Juan,Barlow,M,Juan.Ba@yahoo.com,500.0,Herzelia
+197,Natalia,Daniel,F,Natalia.Da@gmail.com,500.0,Herzelia
+198,Drew,Begum,M,Drew.Begum@gmail.com,800.0,Ramat Hasharon
+199,Nial,Meadows,M,Nial.Me@yahoo.com,500.0,Givatayim
+200,Diya,Myers,F,Diya.My@walla.co.il,600.0,Givatayim
